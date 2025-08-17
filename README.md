@@ -39,30 +39,18 @@ Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • W
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-
-</div>
 
 ---
 
 ## 🔗 Quick Links
-- 📄 **Resume:** Add a PDF to this repo (e.g., `Steve-White-Resume.pdf`) and link it here.
+- 📄 **Resume:**  (e.g., `Steve-White-Resume.pdf`)
 - 🌐 **Portfolio:** _Add your site link here_  
-- 💬 **How to reach me:** [youremail@example.com](mailto:youremail@example.com)
+- 💬 **How to reach me:**(steven.r.white2001@gmail.com)
 
 ---
 
-## 🧭 Setup Instructions (copy/paste)
-1. Rename this repo to **`your-github-username/your-github-username`** (must match your GitHub username) so it renders as your **profile**.
-2. Replace placeholders: username, email, LinkedIn, and portfolio link.
-3. Commit this `README.md` to the root of the repo.
-4. (Optional) Add a `assets/` folder with a banner image and reference it at the top.
-5. (Optional) Turn on GitHub Pages for a separate site and reuse the same branding.
+
 
 ---
 
