@@ -5,7 +5,7 @@ Orlando, FL • Cybersecurity • Networking • Windows & Cisco • Home Lab Bu
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-w-476956258)&nbsp;
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white)](steven.r.white2001@gmail.com)
 
 </div>
 
