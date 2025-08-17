@@ -44,7 +44,7 @@ Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • W
 ---
 
 ## 🔗 Quick Links
-- 📄 **Resume:**  (e.g., `Steve_White_Updated_Resume.pdf`)
+- 📄 **Resume:**  (`Steve_White_Updated_Resume.pdf`)
 - 🌐 **Portfolio:** _Add your site link here_  
 - 💬 **How to reach me:**(steven.r.white2001@gmail.com)
 
